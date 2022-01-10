@@ -1,0 +1,1 @@
+GET https://api.openweathermap.org/data/2.5/weather?q=chicago&units=metric&APPID=61c12d3c469599cf31006d8daa6843d6
